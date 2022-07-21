@@ -3,7 +3,9 @@
 
 # Dependencies
 Python 3.6
+
 Pytorch 0.3.1.
+
 progress 1.5
 
 # Training commands
