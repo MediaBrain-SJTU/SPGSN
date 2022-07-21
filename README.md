@@ -20,13 +20,9 @@ If you use our code, please cite our work
 
 `
 @inproceedings{li2022Skeleton,
-
   title={Skeleton-parted graph scattering networks for 3D human motion prediction},
-  
   author={Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya},
-  
   booktitle={ECCV},
-  
   year={2022}
 }
 `
